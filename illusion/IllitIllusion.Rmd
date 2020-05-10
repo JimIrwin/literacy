@@ -1,6 +1,6 @@
 ---
 title: "The Illusion of Literacy in the 19th-Century US"
-author: "J R Irwin & C L McDevitt (2020/05/09)"
+author: "J R Irwin & C L McDevitt (2020/05/10)"
 output:
   html_document: default
   pdf_document: default
